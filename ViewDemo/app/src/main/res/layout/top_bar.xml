@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<cn.fxn.matthew.viewdemo.TitleBar xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:custom="http://schemas.android.com/apk/res-auto"
+    android:id="@+id/top_bar"
+    android:layout_width="match_parent"
+    android:layout_height="40dp"
+    custom:leftBackground="@color/colorPrimary"
+    custom:leftText="返回"
+    custom:leftTextColor="#ff000000"
+    custom:rightBackground="@color/colorAccent"
+    custom:rightText="更多"
+    custom:rightTextColor="@color/colorPrimary"
+    custom:titleText="Hello Here!"
+    custom:titleTextColor="@color/colorPrimary"
+    custom:titleTextSize="23sp">
+
+</cn.fxn.matthew.viewdemo.TitleBar>
